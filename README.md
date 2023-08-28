@@ -7,7 +7,7 @@
 
 - 🌍  I'm based in **the UK**
 
-- 🌱 I’m currently learning **.Net Core and python**
+- 🌱 I’m currently learning **Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4**
 
 - 🔭 My graduation project is [TreeTrack](https://github.com/Mansur74/TreeTrack)
 
