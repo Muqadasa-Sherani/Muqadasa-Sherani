@@ -7,11 +7,11 @@
 
 - 🌍  I'm based in **the UK**
 
-- 🌱 I’m currently learning **Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4**
+- 🌱 I’m currently learning **Flutter**
 
 - 🔭 My graduation project is [TreeTrack](https://github.com/Mansur74/TreeTrack)
 
-- 📄 Computer Engineering Graduate. **Following my experience with the Map-Webpage project during my IT internship at Başarsoft, I developed a strong enthusiasm for full-stack web development.**
+- 📄 Computer Engineering Graduate. **Following my experience with the Map-Webpage project during my IT internship at Başarsoft, I developed a strong enthusiasm for software development.**
 
 - 📫 How to reach me **muqadasa.sherani@gmail.com**
 
