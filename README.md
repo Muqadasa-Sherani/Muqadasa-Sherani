@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqadasa-sherani&label=Profile%20views&color=0e75b6&style=flat" alt="muqadasa-sherani" /> </p>
 
-- 🌍  I'm based in **the UK**
+- 🌍  I'm based in **Germany**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Master's in Data Science**
 
-- 🔭 My graduation project is [TreeTrack](https://github.com/Mansur74/TreeTrack)
+- 🔭 My bachelor's graduation project was [TreeTrack](https://github.com/Mansur74/TreeTrack)
 
 - 📄 Computer Engineering Graduate. **Following my experience with the Map-Webpage project during my IT internship at Başarsoft, I developed a strong enthusiasm for software development.**
 
 - 📫 How to reach me **muqadasa.sherani@gmail.com**
 
-- ⚡ Fun fact **I possess a small concealed truth – I am, in fact, an extraterrestrial being. Kindly ensure this remains confidential.**
+- ⚡ Fun fact **I can talk to trees.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
